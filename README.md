@@ -21,5 +21,6 @@ img.resize(400,400);
 }
 ```
 and it fits perfectly, and I was quite impressed on how the code worked.
-
+![Screenshot 2025-01-24 122044](https://github.com/user-attachments/assets/6ec5d1b1-862a-4182-9551-dc7169d0f20a)
 ## Conclusion(+ further improvement)
+- 

@@ -11,15 +11,15 @@ Website link:
 **Coding at the moment, this part is where there was some confusion on the function preload(){ because the image didn't appeared but only showed the extra close-up of the image.**
 - I began to research on www.google.com on 'p5.js image resize.' and got some good information. 
 ![Screenshot 2025-01-24 150200](https://github.com/user-attachments/assets/28389e66-f2bc-4d28-b0a0-d99dbc272f6b)
-- There were two errors on for the first
+- First, there were two errors on for the first
 ```ruby
 function preload(){
 ```
-which was the img=loadImage("photo/night.jpg), because I have encountered the folder wrong before in the sketch (img=loadImage (images/night.jpg). After fixing that problem, I worked on the photo size. For the photo size, I decided to reduce the size and crop the image off, to adjust the better fit for the sketch. 
+which was the **img=loadImage("photo/night.jpg)**, because I have encountered the folder wrong before in the sketch **(img=loadImage (images/night.jpg)**. After fixing that problem, I worked on the photo size. For the photo size, I decided to reduce it and crop the image to better fit the sketch.
 ```ruby
 img.resize(400,400);
 }
 ```
-and it fits perfectly, and I was quite impressed on how the code worked. 
+and it fits perfectly, and I was quite impressed on how the code worked.
 
 ## Conclusion(+ further improvement)

@@ -6,7 +6,6 @@ Website link:
 ## Notes(working progress)
 ![Screenshot 2025-01-24 143727](https://github.com/user-attachments/assets/240b1a21-a873-41e4-9114-f7f46af108a8)
 ![Screenshot 2025-01-24 143734](https://github.com/user-attachments/assets/108d18b0-8fdd-4624-9272-40acc2318966)
-![Screenshot 2025-01-24 121441](https://github.com/user-attachments/assets/1dee2359-b403-4d94-915b-173d69a131b2)
 **week 2 lectures**
 ![Screenshot 2025-01-24 121441](https://github.com/user-attachments/assets/d8c8526b-f297-4dd1-8b82-29071c2f397f)
 **Coding at the moment, this part is where there was some confusing on the function preload(){ because the image doesn't appear but only showed the extra close-up of the image.**

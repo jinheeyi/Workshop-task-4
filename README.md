@@ -1,8 +1,9 @@
-Website link:
+Website link:https://jinheeyi.github.io/workshop_4/
 
 ## Introduction
-- For this workshop 4, there was something that I've never done which was colour changing, with using the slider. So, for this project so far, I decided to follow the identical code that Leo did in the lecture. https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968. I wanted to try to do an unchallenging one, exploring more on colour shifting and the part where the text disappears and appears when changing the slider.
-- There aren't many references for this workshop 4 because this is followed to the lecture, and even experiencing on it too.
+- For this workshop 4, there was something that I've never done which was colour changing, with using the slider. So, for this project so far, I decided to follow the identical code that Leo did in the lecture. https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968.
+- I wanted to try to do an unchallenging one, exploring more on colour shifting and the part where the text disappears and appears when changing the slider.
+-There aren’t many references for Workshop 4 because it was mainly based on the lecture. I learned by doing and experiencing the tasks directly instead of relying on to the lecture, which allowed me to make concepts firsthand. 
 ## Notes(working progress)
 ![Screenshot 2025-01-24 143727](https://github.com/user-attachments/assets/240b1a21-a873-41e4-9114-f7f46af108a8)
 ![Screenshot 2025-01-24 143734](https://github.com/user-attachments/assets/108d18b0-8fdd-4624-9272-40acc2318966)

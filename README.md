@@ -10,9 +10,9 @@ Website link:https://jinheeyi.github.io/workshop_4/
 **week 2 lectures**
 ![Screenshot 2025-01-24 121441](https://github.com/user-attachments/assets/d8c8526b-f297-4dd1-8b82-29071c2f397f)
 **Coding at the moment, this part is where there was some confusion on the function preload(){ because the image didn't appeared but only showed the extra close-up of the image.**
-- I began to research on www.google.com on 'p5.js image resize.' and got some good information. 
+- I began to research on www.google.com on 'p5.js image resize.' and got some good info and exactly what I wanted. 
 ![Screenshot 2025-01-24 150200](https://github.com/user-attachments/assets/28389e66-f2bc-4d28-b0a0-d99dbc272f6b)
-- First, there were two errors on for the first
+- First, there were two errors on for the first code:
 ```ruby
 function preload(){
 ```
@@ -24,4 +24,4 @@ img.resize(400,400);
 and it fits perfectly, and I was quite impressed on how the code worked.
 ![Screenshot 2025-01-24 122044](https://github.com/user-attachments/assets/6ec5d1b1-862a-4182-9551-dc7169d0f20a)
 ## Conclusion(+ further improvement)
-- 
+- For further improvement, it would be helpful to double-check the codes and review what might be missing, including the files. And for this current simple sketch, I would love to try make it more visually appealing by designing the code with more colours, textbox including the layouts too. But for today's workshop, it was quite diverting, and I've learnt about how to make a slider. Event though I didn't quite get to learnt from the end part from the video, I would love to try that and see how it goes.  

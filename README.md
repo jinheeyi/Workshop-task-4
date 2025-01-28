@@ -1,4 +1,4 @@
-Website link:https://jinheeyi.github.io/workshop_4/
+Website link: https://jinheeyi.github.io/workshop_4/
 
 ## Introduction
 - For this workshop 4, there was something that I've never done which was colour changing, with using the slider. So, for this project so far, I decided to follow the identical code that Leo did in the lecture. https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968.

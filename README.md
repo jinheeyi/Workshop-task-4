@@ -24,4 +24,5 @@ img.resize(400,400);
 and it fits perfectly, and I was quite impressed on how the code worked.
 ![Screenshot 2025-01-24 122044](https://github.com/user-attachments/assets/6ec5d1b1-862a-4182-9551-dc7169d0f20a)
 ## Conclusion(+ further improvement)
-- For further improvement, it would be helpful to double-check the codes and review what might be missing, including the files. And for this current simple sketch, I would love to try make it more visually appealing by designing the code with more colours, textbox including the layouts too. But for today's workshop, it was quite diverting, and I've learnt about how to make a slider. Event though I didn't quite get to learnt from the end part from the video, I would love to try that and see how it goes.  
+- For further improvement, it would be helpful to double-check the codes and review what might be missing, including the files. And for this current simple sketch, I would love to try make it more visually appealing by designing the code with more colours, textbox including the layouts too.
+- But for today's workshop, it was quite diverting, and I've learnt about how to make a slider. Event though I didn't quite get to learnt from the end part from the video, or even expanding more ideas on what to add for this collage, I would love to try that and see how it goes for the next assignment.
